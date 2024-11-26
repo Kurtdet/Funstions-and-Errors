@@ -102,7 +102,3 @@ contract SmartContract {
 
 5. **Send Ether to the Contract**
    - You can send Ether to the contract by simply transferring Ether to its address.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
